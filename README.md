@@ -34,6 +34,9 @@ The input data is sourced from public government datasets:
 3. Configure database connection parameters in the script.
 4. Run the script to process and analyze the data.
 
+## Final Output
+The folder final_output contains the results of the script execution. It includes two generated graphs displaying traffic accident data for Santa Catarina.
+
 ## Notes
 - This project is for educational purposes only.
 - The data and results should not be used for official decision-making.
