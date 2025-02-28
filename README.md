@@ -43,5 +43,11 @@ The folder final_output contains the results of the script execution. It include
 - Ensure database access and permissions before running the script.
 
 ## Author
-João Vitor Ferreira Pedro Engineering Student at UFSC. GitHub: https://github.com/jvfpedro
+João Vitor Ferreira Pedro
+Engineering Student at UFSC
+GitHub: https://github.com/jvfpedro
+
+Daniel Tavare dos Anjos
+Engineering Student at UFSC
+GitHub: https://github.com/danieltanjos
 
